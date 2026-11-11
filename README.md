@@ -60,7 +60,6 @@ The planned application includes the following main screens:
 * Login Screen
 * Home Screen
 * Add/Edit Habit Screen
-* Habit Details Screen
 * Calendar Screen
 * Statistics Screen
 * Settings Screen
@@ -121,6 +120,13 @@ If the core application is completed successfully, additional improvements may i
 * Improved habit suggestions.
 * Additional customization options.
 * Enhanced synchronization and user experience.
+
+## Figma Design & Prototype
+
+Our wireframes, high-fidelity mockups, and interactive prototype are available in Figma.
+
+- **Wireframes & Mockups:** [View Figma Design](https://www.figma.com/design/kRzndoG4m3cEAJG7Kzudgz/Untitled?node-id=0-1&p=f&t=PKOoVD4r48VvKteB-0)
+- **Interactive Prototype:** [Open Figma Prototype](https://www.figma.com/proto/kRzndoG4m3cEAJG7Kzudgz/Untitled?node-id=2-752&p=f&t=PKOoVD4r48VvKteB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A752&show-proto-sidebar=1)
 
 License
 This project is developed for academic purposes as part of the MTM4681 Mobile Programming course.
