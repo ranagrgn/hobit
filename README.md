@@ -1,4 +1,4 @@
-Hobit – Habit Tracking and Reminder Mobile Application
+**Hobit – Habit Tracking and Reminder Mobile Application**
 
 About the Project
 Hobit is a mobile application designed to help users build and maintain healthy daily routines. The application allows users to create personal habits, schedule reminders, record daily completions and monitor their progress.
@@ -64,6 +64,8 @@ The planned application includes the following main screens:
 * Calendar Screen
 * Statistics Screen
 * Settings Screen
+
+<img width="1280" height="523" alt="image" src="https://github.com/user-attachments/assets/7c0565c6-01e2-4240-9beb-76551065d520" />
 
 The habit creation process is divided into two steps. Users first enter the habit name and starting date, then configure the repetition frequency and reminder time.
 
